@@ -1,0 +1,29 @@
+[
+    {
+        "categoryId":"01",
+        "categoryName": "Computer Science & programing"
+    },
+    {
+        "categoryId":"02",
+        "categoryName": "Data Science & Analysis"
+    },
+    {
+        "categoryId":"03",
+        "categoryName": "Free Course"
+    },
+    {
+        "categoryId": "04",
+        "categoryName": "Web Development"
+    },
+    {
+        "categoryId": "05",
+        "categoryName": "Live Course"
+    },
+    {
+        "categoryId":"06",
+        "categoryName": "Premium Course"
+    }
+   
+    
+ 
+]

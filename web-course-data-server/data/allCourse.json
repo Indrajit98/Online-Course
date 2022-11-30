@@ -1,0 +1,166 @@
+[
+    {
+        "id":"5f4sdf",
+        "title":"C programing for beginner",
+        "categoryId":"01",
+        "categoryName": "Computer Science & programing",
+        "details":"C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.Our C tutorials will guide you to learn C programming one step at a time.",
+        "price":"1500",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "img":"https://contentstatic.techgig.com/photo/90325682.cms"
+    },
+    {
+        "id":"u65u4tu",
+        "title":"Complete HTML5, CSS & Bootstrap",
+        "categoryId":"03",
+        "categoryName": "Free Course",
+        "details":"In this HTML tutorial, you will find more than 200 examples. With our online Try it Yourself editor, you can edit and test each example yourself! Learn from over 300 examples! With our editor, you can edit the CSS, and click on a button to view the result.This tutorial contains hundreds of Bootstrap 5 examples. With our online editor, you can edit the code, and click on a button to view the result. ",
+        "price":"00",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://www.seekpng.com/png/detail/141-1415753_html5-combined-with-css3-allows-for-the-development.png"
+    },
+    
+    {
+        "id":"8f78ssfgh",
+        "title":"SQL For Data Science",
+        "categoryId":"01",
+        "categoryName": "Computer Science & programing",
+        "details":"As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, “part mathematician, part computer scientist, and part trend spotter” (SAS Institute, Inc.). ",
+        "price":"1500",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://editor.analyticsvidhya.com/uploads/91429sql%20for%20data%20science.jpg"
+    },
+    {
+        "id":"65fsd+f5",
+        "title":"Introduction to R",
+        "categoryId":"02",
+        "categoryName": "Data Science & Analysis",
+        "details":"R is an integrated suite of software facilities for data manipulation, calculation and graphical display. Among other things it has The term “environment” is intended to characterize it as a fully planned and coherent system, rather than an incremental accretion of very specific and inflexible tools, as is frequently the case with other data analysis software. R is very much a vehicle for newly developing methods of interactive data analysis. It has developed rapidly, and has been extended by a large collection of packages. However, most programs written in R are essentially ephemeral, written for a single piece of data analysis.",
+        "price":"1300",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyJ-IqcgLgJb58RfNOlMIOhKKppF-wuceGe4R6xpNbrjzHf-ndHDwUZJul3QlHChW-j4&usqp=CAU"
+    },
+    {
+        "id":"49io4uo",
+        "title":"Modern JavaScript Programming",
+        "categoryId":"06",
+        "categoryName": "Premium Course",
+        "details":"If there's one thing modern JavaScript has it's variety. From the handful of JavaScript projects used by 99% of users, there are hundreds more that cover glaring omissions in these major projects. And from these broader JavaScript projects, there are thousands more that cover edge cases that only a small percentage of users or only their owners know about. This leads to what many in the JavaScript community call JavaScript fatigue: A daily occurrence of new JavaScript projects that creates an almost endless learning curve.",
+        "price":"1500",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://miro.medium.com/max/1400/1*fvmf3rKNjxUfUWDyfAkwdg.png"
+    },
+    {
+        "id":"13sdf4",
+        "title":"MATLAB Masterclass",
+        "categoryId":"02",
+        "categoryName": "Data Science & Analysis",
+        "details":"MATLAB (matrix laboratory) is one of the fundamental and leading programming language and is a must learn skill for anyone who want to develop a career in engineering, science or related fields. Excellent MATLAB programming skills is therefore a crucial factor in making or breaking your career. ",
+        "price":"1300",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://www.pantechelearning.com/wp-content/uploads/2021/07/Site-images4-.jpg"
+    },
+    {
+        "id":"3f4sd",
+        "title":"Facebook Marketing",
+        "categoryId":"03",
+        "categoryName": "Free Course",
+        "details":"How is Facebook used in marketing? Facebook's tools cater to the business that wants to form an authentic relationship with their audience. It allows marketers to create and distribute quality content that's helpful for users. And it allows sales and customer services reps to connect with consumers interested in a brand.",
+        "price":"00",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9h2IHm7DQ0s0T1rsZciy2Hr5oUS4agzQaRuJUuyMXcYiC0z5fK2ByAl9HlWvnc-QAwSc&usqp=CAU"
+    },
+    {
+        "id":"h5fh4f64h",
+        "title":"Introduction to Database",
+        "categoryId":"01",
+        "categoryName": "Computer Science & programing",
+        "details":"A database, in the most general sense, is an organized collection of data. More specifically, a database is an electronic system that allows data to be easily accessed, manipulated and updated. In other words, a database is used by an organization as an electronic way to store, manage and retrieve information.",
+        "price":"1000",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://i0.wp.com/francescolelli.info/wp-content/uploads/2020/10/Introduction-to-databases.png?resize=790%2C346&ssl=1"
+    },
+    {
+        "id":"89sf9fh",
+        "title":"Welcome to the World of Digital Marketing",
+        "categoryId":"03",
+        "categoryName": "Free Course",
+        "details":"This course examines how new digital tools, such as the Internet, smartphones, and 3D printing, are revolutionizing the world of marketing by changing the roles and practices of both firms and consumers. Marketing in a Digital World is one of the most popular courses on Coursera with over 500,000 learners and is rated by Class Central as one of the Top 50 MOOCs of All Time (https://www.class-central.com/report/top-moocs/). You will be able to: • Understand how digital tools are changing the nature of marketing • Explain how digital tools allow consumers to take a more active role in product development, promotion, placement, and pricing activities • Obtain a new set of concepts, tools, and stories to enhance your digital marketing efforts This course is part of Gies College of Business’ suite of online programs, including the iMBA and iMSM. ",
+        "price":"00",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png"
+    },
+    {
+        "id":"qr45wer4",
+        "title":"Full Stack (MERN) Web Development",
+        "categoryId":"06",
+        "categoryName": "Premium Course",
+        "details":"MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js front-end framework is replaced with React.js. Other variants include MEVN (MongoDB, Express, Vue, Node), and really any front-end JavaScript framework can work. Ready to take the next step? Set up your free Atlas account by clicking below and try our MERN Stack Tutorial to create a full-stack MERN application in no time.",
+        "price":"2000",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://cdn2.hubspot.net/hubfs/6062099/full%20stack%20%281%29.png"
+    },
+    {
+        "id":"fsd8fsdc",
+        "title":"Stata for Statistics & Data Analysis",
+        "categoryId":"02",
+        "categoryName": "Data Science & Analysis",
+        "details":"As data collection has increased exponentially, so has the need for people skilled at using and interacting with data; to be able to think critically, and provide insights to make better decisions and optimize their businesses. This is a data scientist, “part mathematician, part computer scientist, and part trend spotter” (SAS Institute, Inc.). ",
+        "price":"1200",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"data:image/jpeg;base64,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"
+    },
+    {
+        "id":"7h9fr6ty",
+        "title":"YouTube Marketing for Organic Reach",
+        "categoryId":"03",
+        "categoryName": "Free Course",
+        "details":"It's important not to overlook the fact that YouTube is a social media channel, and therefore demands social interaction. If you’re just posting videos without encouraging comments and discussion, you’re missing a trick.  YouTube rewards channels with great engagement, including overall time spent on channel, watch time, likes and dislikes, and most importantly, comments. So try to respond to every comment you receive (if possible!) and encourage users to engage with audio/visual prompts.",
+        "price":"00",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://cdn.searchenginejournal.com/wp-content/uploads/2015/11/youtube-featured-image.png"
+    },
+   
+    {
+        "id":"98f79sf4",
+        "title":"Career Track: Front-End Web Development",
+        "categoryId":"04",
+        "categoryName": "Web Development",
+        "details":"Generally, front end developers in entry-level roles focus on creating interactive user interfaces and ensuring server-side functionality. You will also assist your web development teammates by testing code or handling specific tasks relating to the design process.",
+        "price":"3500",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/12/23062235/frontend-web-development.jpg"
+    },
+    {
+        "id":"54bc545s",
+        "title":"React Native for Multiplatform App",
+        "categoryId":"04",
+        "categoryName": "Web Development",
+        "details":"With React Native, you don't need to hire multiple developers for frontend and backend development as it saves time and money. If many users use your mobile app, then React Native can be used to create a cross-platform mobile application that supports both Android and iOS devices.",
+        "price":"2000",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://miro.medium.com/max/1400/1*FmxAGJwyA8HtFUjGaISHHg.jpeg"
+    },
+    {
+        "id":"87fsf4f",
+        "title":"Back-End Web Development with Node Js",
+        "categoryId":"04",
+        "categoryName": "Web Development",
+        "details":"Node.js is a server-side platform based on the JavaScript Engine in Google Chrome. It was created by Ryan Dahl in 2009, and the most recent version is v0.10.36. This is a cross-platform runtime environment for developing server-side and networking applications that are open source. Node.js programs are written in JavaScript and run on the Node.js runtime on OS X, Microsoft Windows, and Linux. Node.js also comes with a big library of JavaScript modules, which makes developing Node.js web applications much easier.",
+        "price":"2500",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://dz2cdn1.dzone.com/storage/temp/14227886-1607949202663.png"
+    },
+    {
+        "id":"u4tyu46tut",
+        "title":"Redux For Front End Web Development",
+        "categoryId":"06",
+        "categoryName": "Premium Course",
+        "details":"Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.You can use Redux together with React, or with any other view library. It is tiny (2kB, including dependencies), but has a large ecosystem of addons available.",
+        "price":"1600",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "img":"https://redux.js.org/img/redux-logo-landscape.png"
+    }
+
+
+]
